@@ -20,7 +20,7 @@ Ananda Sailesh
 IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
 
 # **LINKS**
-## Assignment
+## Assignments
 <div align="center">
 
    1)<button>
