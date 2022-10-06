@@ -15,10 +15,10 @@ Ananda Sailesh
 ## 📒PROJECT DESCRIPTION:
 <br>In simple words, Smart Waste Management is a waste management process to identify the amount of trash in the trash bin and helps to notify the Waste management team to clear them up and the Trash bin's place can be obtained with the help of GPS.  <br>
 
-
+<div align="center">
 ## Skills Required:
 IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
-
+</div>
 # **LINKS**
 ## Assignment
 1)<button>
