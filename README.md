@@ -15,12 +15,13 @@ Ananda Sailesh
 ## 📒PROJECT DESCRIPTION:
 <br>In simple words, Smart Waste Management is a waste management process to identify the amount of trash in the trash bin and helps to notify the Waste management team to clear them up and the Trash bin's place can be obtained with the help of GPS.  <br>
 
-<div align="center">
+
 ## Skills Required:
 IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
-</div>
+
 # **LINKS**
 ## Assignment
+<div align="center">
 1)<button>
    <a href="https://github.com/IBM-EPBL/IBM-Project-30472-1660147127/tree/main/Assessments/Team_Member_1/Arun%20K_Assignment%201"> Go to Assignment 1 </a>
 </button>
@@ -32,4 +33,5 @@ IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED servi
 3)<button>
    <a href="https://github.com/IBM-EPBL/IBM-Project-30472-1660147127/tree/main/Assessments/Team_Member_1/Arun%20K_Assignment%203"> Go to Assignment 3 </a>
  </button>
+   </div>
 
